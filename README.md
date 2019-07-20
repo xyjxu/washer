@@ -1,2 +1,1 @@
 # washer
-# JS
